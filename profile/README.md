@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=LUPHOS&fontAlign=50&fontAlignY=38&color=0:001a17,50:00332e,100:00e0c8&fontColor=ffffff&desc=Offensive%20Security%20Engineering%20%E2%80%A2%20Security%20Platforms%20%E2%80%A2%20Pentest%20Tooling&descAlign=50&descAlignY=58" alt="LUPHOS banner" />
 
-# LUPHOS
-
 ### Offensive Security Engineering • Security Platforms • Pentest Tooling
 
 Luphos is a cybersecurity company focused on designing offensive security tooling, modular security engines, and integrated platform experiences for modern pentest workflows.
